@@ -1,0 +1,39 @@
+/* Font */
+.st-font{
+    font-family: 'Satisfy', cursive;
+}
+*
+{
+    box-sizing: border-box;
+}
+html,body
+{
+    height: 100%;
+}
+.container_fluid
+{
+    min-height: 100%;
+}
+
+.i-color
+{
+    color: chartreuse;
+}
+.ss-color
+{
+    color: silver;
+}
+a.nav-link
+{
+    color: whitesmoke;
+}
+a.nav-link:hover
+{
+    color: black;
+    background-color: skyblue;
+}
+a.nav-link.active
+{
+    color: black;
+    background-color: skyblue;
+}
